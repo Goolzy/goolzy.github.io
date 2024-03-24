@@ -1,0 +1,7 @@
+{
+  "server": {
+    "maintenance_mode": false,
+    "maintenance_notes": "Server maintenance is in progress."
+    "maintenance_time": "00-00-00 00:00:00"
+  }
+}
