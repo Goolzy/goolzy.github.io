@@ -1,9 +1,6 @@
 {
   "common": {
     "version": "0.1.0",
-    "announcement": "",
-    "maintenance_mode": false,
-    "maintenance_notes": ""
   },
   "platforms": {
     "playstore": {
