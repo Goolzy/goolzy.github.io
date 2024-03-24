@@ -3,31 +3,35 @@
     "version": "0.1.0",
   },
   "platforms": {
-    "playstore": {
+      "name": "playstore",
       "type": "android",
       "resource_version": "0.0.0",
       "update_url": "",
       "release_notes": ""
     },
-    "appstore": {
+    {
+      "name": "appstore",
       "type": "ios",
       "resource_version": "0.0.0",
       "update_url": "",
       "release_notes": ""
     },
-    "steam": {
+    {
+      "name": "steam",
       "type": "desktop",
       "resource_version": "0.0.0",
       "update_url": "",
       "release_notes": ""
     },
-    "stove": {
+    {
+      "name": "stove",
       "type": "desktop",
       "resource_version": "0.0.0",
       "update_url": "",
       "release_notes": ""
     },
-    "epicstore": {
+    {
+      "name": "epicstore",
       "type": "desktop",
       "resource_version": "0.0.0",
       "update_url": "",
