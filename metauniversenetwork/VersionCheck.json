@@ -3,6 +3,7 @@
     "version": "0.1.0",
   },
   "platforms": {
+    {
       "name": "playstore",
       "type": "android",
       "resource_version": "0.0.0",
