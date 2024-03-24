@@ -1,42 +1,42 @@
 {
-  "common": {
-    "version": "0.1.0"
-  },
-  "platforms": {
-    {
-      "name": "playstore",
-      "type": "android",
-      "resource_version": "0.0.0",
-      "update_url": "",
-      "release_notes": ""
+    "common": {
+        "version": "0.1.0"
     },
-    {
-      "name": "appstore",
-      "type": "ios",
-      "resource_version": "0.0.0",
-      "update_url": "",
-      "release_notes": ""
-    },
-    {
-      "name": "steam",
-      "type": "desktop",
-      "resource_version": "0.0.0",
-      "update_url": "",
-      "release_notes": ""
-    },
-    {
-      "name": "stove",
-      "type": "desktop",
-      "resource_version": "0.0.0",
-      "update_url": "",
-      "release_notes": ""
-    },
-    {
-      "name": "epicstore",
-      "type": "desktop",
-      "resource_version": "0.0.0",
-      "update_url": "",
-      "release_notes": ""
-    }
-  }
+    "platforms": [
+        {
+            "name": "playstore",
+            "type": "android",
+            "resource_version": "0.0.0",
+            "update_url": "",
+            "release_notes": ""
+        },
+        {
+            "name": "appstore",
+            "type": "ios",
+            "resource_version": "0.0.0",
+            "update_url": "",
+            "release_notes": ""
+        },
+        {
+            "name": "steam",
+            "type": "desktop",
+            "resource_version": "0.0.0",
+            "update_url": "",
+            "release_notes": ""
+        },
+        {
+            "name": "stove",
+            "type": "desktop",
+            "resource_version": "0.0.0",
+            "update_url": "",
+            "release_notes": ""
+        },
+        {
+            "name": "epicstore",
+            "type": "desktop",
+            "resource_version": "0.0.0",
+            "update_url": "",
+            "release_notes": ""
+        }
+    ]
 }
